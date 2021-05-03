@@ -2,7 +2,7 @@ import React from "react";
 import { TouchableOpacity } from "react-native";
 import { StyleSheet, Text, View, SafeAreaView, Image } from "react-native";
 import { Input, Button, Icon } from "react-native-elements";
-import Header from "./component/Header";
+import Header from "../component/Header";
 
 export default function SignUpScreen() {
   return (
